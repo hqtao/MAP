@@ -1,2 +1,2 @@
 # MAP
-Data and intermediate files ofMAP
+Data and partial intermediate files of MAP
